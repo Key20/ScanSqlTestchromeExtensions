@@ -2,7 +2,7 @@
 just test
 
 ##
-'''bash
+```bash
 tree
 
 .
@@ -12,5 +12,5 @@ tree
 │   └── utils
 │       └── api.py
 └── manifest.json
-'''
+```
 
