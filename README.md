@@ -1,7 +1,10 @@
 # ScanSqlTestchromeExtensions
 just test
 
-[tree]
+##
+'''bash
+tree
+
 .
 ├── icon.png
 ├── inject.js
@@ -9,5 +12,5 @@ just test
 │   └── utils
 │       └── api.py
 └── manifest.json
-
+'''
 
