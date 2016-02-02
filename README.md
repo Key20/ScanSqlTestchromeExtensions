@@ -1,0 +1,2 @@
+# ScanSqlTestchromeExtensions
+just test
