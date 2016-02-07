@@ -1,5 +1,9 @@
 # ScanSqlTestchromeExtensions
-just test
+
+### chrome version >=17 suppot webrequest api.  if want to post sqlInjection ,please update chrome.
+- check version command: `chrome://version/`
+
+***
 
 ##
 ```bash
